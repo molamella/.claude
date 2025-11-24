@@ -4,14 +4,8 @@
   },
   "permissions": {
     "allow": [
-      "Bash(git push:*)",
-      "Bash(git pull:*)",
-      "Bash(git fetch:*)",
-      "Bash(git remote:*)",
-      "Bash(git status:*)",
-      "Bash(git log:*)",
-      "Bash(git diff:*)",
-      "Bash(git branch:*)",
+      "Bash(git:*)",
+      "Bash(gh:*)",
       "Bash(bash scripts/*)"
     ]
   }
