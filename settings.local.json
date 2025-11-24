@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__rube__RUBE_SEARCH_TOOLS",
+      "mcp__rube__RUBE_MULTI_EXECUTE_TOOL",
+      "Skill(slack-to-email-drafter)",
+      "mcp__rube__RUBE_REMOTE_WORKBENCH",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "rube"
+  ]
+}
